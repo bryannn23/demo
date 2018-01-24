@@ -4,4 +4,8 @@ ABB
 AA
 
 
+<<<<<<< HEAD
 CC
+=======
+XXX
+>>>>>>> refs/remotes/origin/master
