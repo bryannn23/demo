@@ -11,6 +11,10 @@ XXX
 >>>>>>> refs/remotes/origin/master
 
 
+<<<<<<< HEAD
 
 
 ABCD
+=======
+MNBV
+>>>>>>> refs/remotes/origin/master
