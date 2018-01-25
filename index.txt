@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hindi dapat sa bago dapat laging bago
 
+=======
+hindi dapat sa bago
+BAGO NA TO
+>>>>>>> 72470f9fe5e9935f4162c3f9da3e2d27312daa1a
 
 AA
 
