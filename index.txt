@@ -1,4 +1,4 @@
-ABB
+hindi dapat sa bago
 
 
 AA
@@ -14,7 +14,7 @@ XXX
 <<<<<<< HEAD
 
 
-ABCD
+ABCDdddd
 =======
 MNBV
 >>>>>>> refs/remotes/origin/master
